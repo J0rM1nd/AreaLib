@@ -1,0 +1,11 @@
+D:\Projects\CSharp\AreaLib\bin\Release\net6.0\AreaLib.deps.json
+D:\Projects\CSharp\AreaLib\bin\Release\net6.0\AreaLib.dll
+D:\Projects\CSharp\AreaLib\bin\Release\net6.0\AreaLib.pdb
+D:\Projects\CSharp\AreaLib\obj\Release\net6.0\AreaLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp\AreaLib\obj\Release\net6.0\AreaLib.AssemblyInfoInputs.cache
+D:\Projects\CSharp\AreaLib\obj\Release\net6.0\AreaLib.AssemblyInfo.cs
+D:\Projects\CSharp\AreaLib\obj\Release\net6.0\AreaLib.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\AreaLib\obj\Release\net6.0\AreaLib.dll
+D:\Projects\CSharp\AreaLib\obj\Release\net6.0\refint\AreaLib.dll
+D:\Projects\CSharp\AreaLib\obj\Release\net6.0\AreaLib.pdb
+D:\Projects\CSharp\AreaLib\obj\Release\net6.0\ref\AreaLib.dll
